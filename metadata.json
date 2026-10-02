@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix FlowLens AI",
+  "description": "The next-generation AI platform combining advanced AI with real-time analytics to understand, predict, and validate intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
